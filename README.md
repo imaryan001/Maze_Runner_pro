@@ -2,7 +2,7 @@
 
 Maze Runner Pro is a Python game built using Pygame.
 
-## Features
+## Features 
 
 * Random Maze Generation using Kruskal Algorithm
 * Shortest Path Hint using Dijkstra Algorithm
